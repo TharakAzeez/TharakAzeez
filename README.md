@@ -1,8 +1,10 @@
 ### Hi there 👋
-  🌱 I’m currently learning MEAN Stack Devlopment
+<html>
+  🌱 I’m currently learning MEAN Stack Devlopment <br>
   💻 All of my projects avaialable at github
   💬 Ask me about Html,css,JavaScript
   📫 How to reach me: tharakazeez2001@gmail.com
+  </html>
 
 <!--
 **TharakAzeez/TharakAzeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
